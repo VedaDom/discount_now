@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856314222153",
+    "project_id": "discount-now-now",
+    "storage_bucket": "discount-now-now.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856314222153:android:8a25ec0ca344e02ba55198",
+        "android_client_info": {
+          "package_name": "com.treetechies.discount_now"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856314222153-be8flv3okvtftbc2t07tgbuc2p0cfp45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgX9_pcuftf7IBMCmCi8yfMR3nbkONUhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856314222153-be8flv3okvtftbc2t07tgbuc2p0cfp45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
